@@ -14,6 +14,68 @@
 
 </div>
 
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+#### Who Am I?
+
+```yaml
+name: "Your Name Here"
+role: "Your Role/Title"
+location: "Your Location"
+pronouns: "Your Pronouns"
+focus: "What you're passionate about"
+```
+
+<img alt="Colorful divider" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+**Current Focus:**
+- Working on: `[Your Current Project]`
+- Learning: `[What you're learning]`
+- Looking to collaborate on: `[Collaboration interests]`
+- Exploring: `[Technologies/Concepts]`
+
+</td>
+<td width="50%" valign="top">
+
+<img align="left" alt="Vibing" width="200" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
+
+#### Quick Facts
+
+<br clear="left"/>
+
+- **Fun Fact:** `[Your interesting fact]`
+- **Hobbies:** `[Your hobbies]`
+- **Currently Reading:** `[Book/Article]`
+- **Coding Playlist:** `[Music genre/artist]`
+- **Fuel of Choice:** `[Coffee/Tea/Energy drink]`
+
+<img alt="Colorful divider" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
+
+#### My Philosophy
+
+> `[Add your personal motto or philosophy here]`
+> 
+> `[Another inspiring quote or belief]`
+
+#### My Superpowers
+
+<img alt="Skill icon 1" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img alt="Skill icon 2" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img alt="Skill icon 3" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+
+`[Skill 1]` | `[Skill 2]` | `[Skill 3]`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img alt="Bottom decoration" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
 
 
 <div align="center">
