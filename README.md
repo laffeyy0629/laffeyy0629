@@ -83,10 +83,29 @@
 
 <div align="center">
 
-### Some Pictures from Photography
+### 📷 Some Pictures from Photography
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=laffeyy0629&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laffeyy0629&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+<table>
+<tr>
+<td width="50%">
+<img src="Screenshot 2025-12-04 at 01-24-49 Instagram.png" alt="Photography from Instagram" width="100%"/>
+</td>
+<td width="50%">
+<img src="Screenshot 2025-12-04 at 01-24-40 Instagram.png" alt="Photography from Instagram" width="100%"/>
+</td>
+</tr>
+<tr>
+<td width="33%">
+<img src="Screenshot 2025-12-04 at 01-25-49 Facebook.png" alt="Photography from Facebook" width="100%"/>
+</td>
+<td width="33%">
+<img src="Screenshot 2025-12-04 at 01-25-39 Facebook.png" alt="Photography from Facebook" width="100%"/>
+</td>
+<td width="33%">
+<img src="Screenshot 2025-12-04 at 01-25-32 Facebook.png" alt="Photography from Facebook" width="100%"/>
+</td>
+</tr>
+</table>
 
 </div>
 
