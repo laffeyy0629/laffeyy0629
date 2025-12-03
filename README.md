@@ -21,20 +21,16 @@
 <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 #### Who Am I?
-
-```yaml
-name: "Your Name Here"
-role: "Your Role/Title"
-location: "Your Location"
-pronouns: "Your Pronouns"
-focus: "What you're passionate about"
-```
+- Name: `Javez Isaq B. Ferrer`
+- Role: `Full-stack Dev`
+- Pronounse: `He/him`
+- Focus: `Passionate about good sleep, and no conflict merges.`
 
 <img alt="Colorful divider" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 **Current Focus:**
 - Working on: `[Your Current Project]`
-- Learning: `[What you're learning]`
+- Learning: `Currently improving on C# and Java`
 - Looking to collaborate on: `[Collaboration interests]`
 - Exploring: `[Technologies/Concepts]`
 
