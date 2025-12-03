@@ -98,18 +98,15 @@
 <img src="Screenshot 2025-12-04 at 01-24-49 Instagram.png" alt="Photography from Instagram" width="100%"/>
 </td>
 <td width="50%">
-<img src="Screenshot 2025-12-04 at 01-24-40 Instagram.png" alt="Photography from Instagram" width="100%"/>
+<img src="Screenshot 2025-12-04 at 03-22-39 Facebook.png" alt="Photography from Facebook" width="100%"/>
 </td>
 </tr>
 <tr>
-<td width="33%">
+<td width="50%">
 <img src="Screenshot 2025-12-04 at 01-25-49 Facebook.png" alt="Photography from Facebook" width="100%"/>
 </td>
-<td width="33%">
-<img src="Screenshot 2025-12-04 at 01-25-39 Facebook.png" alt="Photography from Facebook" width="100%"/>
-</td>
-<td width="33%">
-<img src="Screenshot 2025-12-04 at 01-25-32 Facebook.png" alt="Photography from Facebook" width="100%"/>
+<td width="50%">
+<img src="Screenshot 2025-12-04 at 03-19-54 Facebook.png" alt="Photography from Facebook" width="100%"/>
 </td>
 </tr>
 </table>
