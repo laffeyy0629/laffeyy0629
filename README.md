@@ -19,7 +19,7 @@
 
 <td width="50%" valign="top">
 
-<img align="left" alt="Vibing" width="200" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
+<img align="left" alt="octocat" width="400" src="octocat-1764786575560.png">
 
 <br clear="left"/>
 
