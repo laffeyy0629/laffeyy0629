@@ -29,16 +29,12 @@
 - Pronounse: `He/him`
 - Focus: `Passionate about good sleep, and no conflict merges.`
 
-<img alt="Colorful divider" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
 #### Quick Facts
 - **Fun Fact:** `I can yap about stuff for hours on end`
 - **Hobbies:** `Creating Mechanical Keyboards, Building PCs, Photo/videography, Basketball and Table Tennis`
 - **Currently Reading:** `Ctrl + Alt + Resign`
 - **Coding Playlist:** `Jpop/Jrock Enjoyer (Go listen to Zutomayo and ONE OK ROCK)`
 - **Fuel of Choice:** `Coffee Addict and Lipovitan Enjoyer`
-
-<img alt="Colorful divider" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
 
 **Current Focus:**
 - Working on: `AI Powered Legal Documents Assistant`
@@ -51,6 +47,9 @@
 > `"The past makes you wanna die out of regret and future makes you depressed out of anxiety. So by elimination, the present is likely the happiest time."`
 > 
 > `"A blade untouched by flame can never match the strength of one forged in fire."`
+
+
+<img alt="Colorful divider" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="700">
 
 #### My Superpowers
 
@@ -192,8 +191,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laffeyy0629)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laffeyy0629)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/laffeyy0629)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laffeyy0629@example.com)
+[![Facebook](https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/cykagoizamasu/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaqf.0629@gmail.com)
 
 </div>
 
