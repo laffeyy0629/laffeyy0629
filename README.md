@@ -88,21 +88,21 @@
 <table>
 <tr>
 <td width="50%">
-<img src="Screenshot 2025-12-04 at 01-24-49 Instagram.png" alt="Photography 1" width="100%"/>
+<img src="Screenshot 2025-12-04 at 01-24-49 Instagram.png" alt="Photography from Instagram" width="100%"/>
 </td>
 <td width="50%">
-<img src="Screenshot 2025-12-04 at 01-24-40 Instagram.png" alt="Photography 2" width="100%"/>
+<img src="Screenshot 2025-12-04 at 01-24-40 Instagram.png" alt="Photography from Instagram" width="100%"/>
 </td>
 </tr>
 <tr>
 <td width="33%">
-<img src="Screenshot 2025-12-04 at 01-25-49 Facebook.png" alt="Photography 3" width="100%"/>
+<img src="Screenshot 2025-12-04 at 01-25-49 Facebook.png" alt="Photography from Facebook" width="100%"/>
 </td>
 <td width="33%">
-<img src="Screenshot 2025-12-04 at 01-25-39 Facebook.png" alt="Photography 4" width="100%"/>
+<img src="Screenshot 2025-12-04 at 01-25-39 Facebook.png" alt="Photography from Facebook" width="100%"/>
 </td>
 <td width="33%">
-<img src="Screenshot 2025-12-04 at 01-25-32 Facebook.png" alt="Photography 5" width="100%"/>
+<img src="Screenshot 2025-12-04 at 01-25-32 Facebook.png" alt="Photography from Facebook" width="100%"/>
 </td>
 </tr>
 </table>
