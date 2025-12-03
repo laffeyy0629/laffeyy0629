@@ -16,7 +16,7 @@
 
 ```typescript
 const laffeyy0629 = {
-    pronouns: "Code" | "Enthusiast",
+    pronouns: "They/Them",
     code: ["JavaScript", "Python", "TypeScript", "HTML/CSS"],
     askMeAbout: ["web dev", "tech", "coffee", "memes"],
     technologies: {
