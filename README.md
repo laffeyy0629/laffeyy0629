@@ -36,7 +36,7 @@
 - **Coding Playlist:** `Jpop/Jrock Enjoyer (Go listen to Zutomayo and ONE OK ROCK)`
 - **Fuel of Choice:** `Coffee Addict and Lipovitan Enjoyer`
 
-<img alt="Colorful divider" src="offscript-yap.gif" width="300">
+<img alt="Colorful divider" src="offscript-yap.gif" width="250">
 
 </td>
 
@@ -55,8 +55,8 @@
 > `"A blade untouched by flame can never match the strength of one forged in fire."`
 
 
-<img alt="offscript divider 1" src="offscript-walking.gif" width="200">
-<img alt="offscript divider 2" src="offscript-off-script.gif" width="200">
+<img alt="offscript divider 1" src="offscript-walking.gif" width="150">
+<img alt="offscript divider 2" src="offscript-off-script.gif" width="150">
 
 
 #### My Superpowers
