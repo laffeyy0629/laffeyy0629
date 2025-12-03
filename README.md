@@ -33,7 +33,7 @@
 
 #### Quick Facts
 - **Fun Fact:** `I can yap about stuff for hours on end`
-- **Hobbies:** `Creating Mechanical Keyboards, Building PCs, Basketball and Table Tennis`
+- **Hobbies:** `Creating Mechanical Keyboards, Building PCs, Photo/videography, Basketball and Table Tennis`
 - **Currently Reading:** `Ctrl + Alt + Resign`
 - **Coding Playlist:** `Jpop/Jrock Enjoyer (Go listen to Zutomayo and ONE OK ROCK)`
 - **Fuel of Choice:** `Coffee Addict and Lipovitan Enjoyer`
