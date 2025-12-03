@@ -14,30 +14,7 @@
 
 </div>
 
-```typescript
-const laffeyy0629 = {
-    pronouns: "They/Them",
-    code: ["JavaScript", "Python", "TypeScript", "HTML/CSS"],
-    askMeAbout: ["web dev", "tech", "coffee", "memes"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue"],
-            css: ["Tailwind", "Bootstrap", "Sass"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django", "Flask"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        misc: ["Docker", "Git", "Linux"]
-    },
-    architecture: ["SPA", "Microservices", "Progressive Web Apps"],
-    currentFocus: "Building cool projects and learning new technologies",
-    funFact: "I debug with console.log() and I'm not ashamed! 🤷‍♂️"
-};
-```
 
----
 
 <div align="center">
 
