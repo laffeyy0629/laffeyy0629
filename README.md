@@ -57,15 +57,6 @@
 
 <img alt="offscript divider 1" src="offscript-walking.gif" width="150">
 <img alt="offscript divider 2" src="offscript-off-script.gif" width="150">
-
-
-#### My Superpowers
-
-<img alt="Skill icon 1" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<img alt="Skill icon 2" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img alt="Skill icon 3" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img alt="Skill icon 4" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img alt="Skill icon 5" src="https://private-user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQ3ODI2MjksIm5iZiI6MTc2NDc4MjMyOSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA2MjAtMzk4YjE5YjEtOWFhZS00YzFmLThiYzAtZDE3MmEyYzA4ZDY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjAzVDE3MTg0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY4YzRmOWEwMDBiYzhlNDc2ZTcxN2I5YmQzNDhiMTU2ZWFkZjY3N2JjZjJhNmIyODhmMDJkYmQ3NDAxMTYwODAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.C0Ap7-Yyas7zsgF_-6MBKozHbNDiSajIaSDOVQI3R8A" width="100">
   
 </td>
 
@@ -79,6 +70,10 @@
 
 
 <div align="center">
+
+### 🛠️ My Tech Toolbox
+
+<img src="https://skillicons.dev/icons?i=laravel,spring,php,java,js,cpp,cs,react,nodejs,html,css,tailwind,bootstrap,mongodb,postgres,mysql,git,github,linux,vscode,figma,postman&perline=11" />
 
 ---
 
