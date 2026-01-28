@@ -71,7 +71,7 @@
 
 <div align="center">
 
-### 🛠️ My Tech Toolbox
+### My Tech Toolbox
 
 <img src="https://skillicons.dev/icons?i=laravel,spring,php,java,js,cpp,cs,react,nodejs,html,css,tailwind,bootstrap,mongodb,postgres,mysql,git,github,linux,vscode,figma,postman&perline=11" />
 
@@ -79,7 +79,7 @@
 
 <div align="center">
 
-### 📷 Some Pictures from Photography
+### Some Pictures from Photography
 
 <table>
 <tr>
@@ -126,7 +126,7 @@
 
 <div align="center">
 
-### 📈 Activity Graph
+### Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=laffeyy0629&theme=redical&hide_border=true&area=true" alt="Activity Graph" />
 
