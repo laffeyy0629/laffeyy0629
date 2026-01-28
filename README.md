@@ -80,12 +80,6 @@
 
 <div align="center">
 
-### 🛠️ My Tech Toolbox
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,vue,nodejs,express,html,css,tailwind,bootstrap,sass,mongodb,postgres,mysql,git,github,docker,linux,vscode,figma,postman&perline=11" />
-
-</div>
-
 ---
 
 <div align="center">
