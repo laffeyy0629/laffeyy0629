@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Welcome to My Digital Universe! 🚀
+# Welcome to My Digital Universe! 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey!+I'm+laffeyy0629+%F0%9F%91%8B;Developer+%7C+Creator+%7C+Problem+Solver;Building+Amazing+Things+One+Commit+at+a+Time" alt="Typing SVG" />
 
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### 🎭 About Me
+### About Me
 
 </div>
 
@@ -106,7 +106,7 @@
 
 <div align="center">
 
-### 🔥 Contribution Streak
+### Contribution Streak
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=laffeyy0629&theme=radical&hide_border=true" alt="GitHub Streak" />
 
@@ -116,7 +116,7 @@
 
 <div align="center">
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <img src="https://github-profile-trophy-kannan.vercel.app/?username=laffeyy0629&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 
@@ -136,9 +136,9 @@
 
 <div align="center">
 
-### 🎮 When I'm Not Coding
+### When I'm Not Coding
 
-🎵 Jamming to music | 🎮 Gaming | 📚 Reading tech blogs | ☕ Coffee enthusiast | 🌙 Night owl developer
+Jamming to music | Gaming | Reading tech blogs | Coffee enthusiast | Night owl developer
 
 </div>
 
@@ -146,7 +146,7 @@
 
 <div align="center">
 
-### 💬 Random Dev Quote
+### Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 
@@ -156,7 +156,7 @@
 
 <div align="center">
 
-### 🐍 Watch My Contribution Graph Get Eaten!
+### Watch My Contribution Graph Get Eaten!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laffeyy0629/laffeyy0629/output/github-contribution-grid-snake-dark.svg">
@@ -170,7 +170,7 @@
 
 <div align="center">
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laffeyy0629)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javez-isaq-ferrer-1137333a4)
@@ -183,7 +183,7 @@
 
 <div align="center">
 
-### 💖 Support My Work
+### Support My Work
 
 If you like what I do, consider buying me a coffee! ☕
 
@@ -197,7 +197,7 @@ If you like what I do, consider buying me a coffee! ☕
 
 ![Profile Views](https://komarev.com/ghpvc/?username=laffeyy0629&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-### ⭐ From [laffeyy0629](https://github.com/laffeyy0629) with 💜
+### From [laffeyy0629](https://github.com/laffeyy0629) with 💜
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
